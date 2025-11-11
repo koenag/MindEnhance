@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "Python": {
+      "subcategories": ["Decorators", "Async Programming", "Data Structures", "OOP", "Web Development", "Testing"],
+      "description": "Notes about Python programming language, libraries, and best practices"
+    },
+    "Career": {
+      "subcategories": ["Job Search", "Interview Prep", "Networking", "Resume Tips", "Salary Negotiation"],
+      "description": "Career development, job hunting, and professional growth"
+    },
+    "Machine Learning": {
+      "subcategories": ["Neural Networks", "Deep Learning", "NLP", "Computer Vision", "Reinforcement Learning"],
+      "description": "Machine learning algorithms, models, and applications"
+    },
+    "Random Thoughts": {
+      "subcategories": ["Ideas", "Reflections", "Daily Notes", "Miscellaneous"],
+      "description": "Random thoughts, ideas, and miscellaneous notes"
+    },
+    "Web Development": {
+      "subcategories": ["Frontend", "Backend", "Full Stack", "React", "Vue", "Django", "Flask"],
+      "description": "Web development frameworks, tools, and practices"
+    },
+    "Data Science": {
+      "subcategories": ["Data Analysis", "Visualization", "Statistics", "Pandas", "NumPy"],
+      "description": "Data analysis, statistics, and data science tools"
+    }
+  }
+}
+
