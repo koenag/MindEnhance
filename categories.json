@@ -1,29 +1,32 @@
 {
   "categories": {
-    "Python": {
-      "subcategories": ["Decorators", "Async Programming", "Data Structures", "OOP", "Web Development", "Testing"],
-      "description": "Notes about Python programming language, libraries, and best practices"
+    "Artificial Intelligence": {
+      "subcategories": ["Generative AI", "Agents & Automation", "Prompt Engineering", "Ethics & Safety", "AI Infrastructure"],
+      "description": "Concepts, tools, and discussions about artificial intelligence, from generative models to ethical implications and automation systems."
     },
-    "Career": {
-      "subcategories": ["Job Search", "Interview Prep", "Networking", "Resume Tips", "Salary Negotiation"],
-      "description": "Career development, job hunting, and professional growth"
+    "Software Engineering": {
+      "subcategories": ["System Design", "APIs", "Databases", "DevOps", "Version Control", "Testing & QA"],
+      "description": "Software architecture, backend systems, deployment strategies, and general software engineering practices for scalable applications."
     },
-    "Machine Learning": {
-      "subcategories": ["Neural Networks", "Deep Learning", "NLP", "Computer Vision", "Reinforcement Learning"],
-      "description": "Machine learning algorithms, models, and applications"
+    "Productivity & Learning": {
+      "subcategories": ["Note-Taking", "Focus Systems", "Study Methods", "Time Management", "Mindset & Habits"],
+      "description": "Techniques and reflections for improving productivity, focus, and lifelong learning skills."
     },
-    "Random Thoughts": {
-      "subcategories": ["Ideas", "Reflections", "Daily Notes", "Miscellaneous"],
-      "description": "Random thoughts, ideas, and miscellaneous notes"
+    "Cloud & Infrastructure": {
+      "subcategories": ["Kubernetes", "Docker", "AWS", "CI/CD", "Serverless", "Monitoring"],
+      "description": "Topics on cloud computing, infrastructure automation, deployment pipelines, and container orchestration tools."
     },
-    "Web Development": {
-      "subcategories": ["Frontend", "Backend", "Full Stack", "React", "Vue", "Django", "Flask"],
-      "description": "Web development frameworks, tools, and practices"
+    "Creative Expression": {
+      "subcategories": ["Writing Prompts", "Art & Design", "Poetry", "Music & Sound", "Storytelling"],
+      "description": "A space for exploring creativity through writing, art, and other expressive forms that inspire new ideas and perspectives."
     },
-    "Data Science": {
-      "subcategories": ["Data Analysis", "Visualization", "Statistics", "Pandas", "NumPy"],
-      "description": "Data analysis, statistics, and data science tools"
+    "Research & Innovation": {
+      "subcategories": ["Paper Summaries", "Experiment Design", "ML Reproducibility", "Datasets", "Open Problems"],
+      "description": "Notes and resources related to research workflows, innovation in machine learning, and exploring new frontiers in science and tech."
+    },
+    "Personal Development": {
+      "subcategories": ["Goal Setting", "Reflection", "Mental Models", "Decision-Making", "Wellbeing"],
+      "description": "Journaling, reflection, and strategies for personal growth, emotional intelligence, and building a balanced life."
     }
   }
 }
-
